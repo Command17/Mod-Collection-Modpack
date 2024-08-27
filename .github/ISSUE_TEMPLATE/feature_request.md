@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea the modpack
 title: ''
-labels: enhancement
+labels: 'enhancement, modpack: mod collection'
 assignees: ''
 
 ---
